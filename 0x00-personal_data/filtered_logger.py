@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+i#!/usr/bin/env python3
 """
-Script for handling Personal Data
+Script for handling Personal Data and information
 """
 
 from typing import List
